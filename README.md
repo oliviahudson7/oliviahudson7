@@ -4,7 +4,7 @@
 
 I'm an Information Science student at the **University of South Florida**, developing my technical skills in SQL, Power BI, Excel, and data analytics.
 
-I'm interested in using data to identify trends, solve problems, and support informed business decisions, as someone in the retail industry in charge of inventory I have experience looking at data a lot!
+I'm interested in using data to identify trends, solve problems, and support informed business decisions. As someone in the retail industry in charge of inventory, I have experience looking at data a lot!
 
 Currently, I'm building hands-on projects focused on data cleaning, exploratory data analysis, and interactive dashboard development.
 
